@@ -1,6 +1,6 @@
 {
     "name": "leeartem/converter",
-    "description": "Lightweight currency converter library for Laravel.",
+    "description": "Lightweight converter library for Laravel.",
     "license": "MIT",
     "authors": [
         {
